@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+:root {
+  --c-dark: #495057;
+  --c-light: #f8f9fa;
+}
+body {
+  background-color: var(--c-light);
+  padding-top: 4rem;
+}
